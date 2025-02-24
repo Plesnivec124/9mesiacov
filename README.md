@@ -31,7 +31,3 @@
     <p>Žienka moja, už sme spolu skoro 9 mesiacov a som rád, že ťa mám. Dotiahli sme to ďaleko a dotiahneme to ešte ďalej 🥹❤️</p>
 </body>
 </html>
-" alt="Naša fotka">
-    <p>Žienka moja, už sme spolu skoro 9 mesiacov a som rád, že ťa mám. Dotiahli sme to ďaleko a dotiahneme to ešte ďalej 🥹❤️</p>
-</body>
-</html>
