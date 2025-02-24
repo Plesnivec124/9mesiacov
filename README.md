@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="sk">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pre moju Sašku ❤️</title>
+<title>Pre moju Sašku ❤️</title>
     <style>
         body {
             background-color: #ffe6e6;
